@@ -5,7 +5,9 @@ A simple macOS menu bar app that displays the current time in Oman (Gulf Standar
 ## Features
 
 - 🇴🇲 Shows Oman time in the menu bar (HH:mm format)
-- 📅 Display full date on click
+- 🌐 Displays additional custom world clocks in the dropdown menu (e.g. Philippines, UK, Singapore, etc.)
+- ⚙️ Settings window to add, remove, and reorder clocks with time zone search and quick presets
+- 📅 Displays full date and offset relative to Oman time on click
 - 🚀 Launch at Login option
 - ⚡️ Lightweight and native macOS app
 - 🎯 Menu bar only (doesn't appear in Dock)
